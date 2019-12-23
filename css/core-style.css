@@ -85,7 +85,7 @@ img {
   margin-top: 70px !important; }
 
 .mt-100 {
-  margin-top: 100px !important; }
+  margin-top: 40px !important; }
 
 .mb-15 {
   margin-bottom: 15px !important; }
@@ -100,7 +100,7 @@ img {
   margin-bottom: 70px !important; }
 
 .mb-100 {
-  margin-bottom: 100px !important; }
+  margin-bottom: 40px !important; }
 
 .ml-15 {
   margin-left: 15px !important; }
@@ -447,7 +447,7 @@ img {
       .main-content-wrapper .header-area .nav-close:hover {
         background-color: #8321A1; }
     .main-content-wrapper .header-area .logo {
-      margin-bottom: 100px;
+      margin-bottom: 50px;
       display: block; }
     .main-content-wrapper .header-area .amado-nav li a {
       font-size: 14px;
@@ -1014,6 +1014,8 @@ img {
 /* :: 6.0 Newsletter Area CSS */
 .newsletter-area {
   position: relative;
+  padding-bottom: 60px;
+  margin-top: 30px;
   z-index: 1;
   background-color: #3c3c3c; }
   .newsletter-area .newsletter-text {
